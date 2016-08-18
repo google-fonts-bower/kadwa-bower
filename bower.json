@@ -1,0 +1,17 @@
+{
+    "name": "kadwa-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sol Matas"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/kadwa-bower.git"
+    },
+    "description": "Kadwa font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
